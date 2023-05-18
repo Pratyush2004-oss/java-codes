@@ -1,13 +1,13 @@
 import java.util.Scanner;
 class A{ 
     void show(String n, int b){
-        System.out.println("1");
+        System.out.println("10");
     }
     void show(int a){
-        System.out.println("2");
+        System.out.println("20");
     }
     int show(int a,float  w){
-        System.out.println("3");
+        System.out.println("30");
         return 0;
     }
     void show(Object s){
