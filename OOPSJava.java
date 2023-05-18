@@ -21,7 +21,7 @@ public class OOPSJava{
 
         s1.show('t');
         s1.show(null, 0);
-        s1.show(0, 0f);
+        s1.show(0, 5f);
         s1.show(45f);
 
     }
