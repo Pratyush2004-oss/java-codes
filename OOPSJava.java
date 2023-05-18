@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class A{ {
+class A{ 
     void show(String n, int b){
         System.out.println("1");
     }
@@ -19,11 +19,10 @@ public class OOPSJava{
     public static void main(String args[]){
         A s1 = new A();
 
-        s1.show('v');
+        s1.show('t');
         s1.show(null, 0);
         s1.show(0, 0f);
         s1.show(45f);
 
     }
-}
 }
